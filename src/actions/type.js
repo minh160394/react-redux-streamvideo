@@ -1,0 +1,5 @@
+export const CREATE_STREAM = 'CREATE_STREAM';
+export const DELETE_STREAM = 'DELETE_STREAM';
+export const EDIT_STREAM = 'EDIT_STREAM';
+export const LIST_STREAM = 'LIST_STREAM';
+export const SINGLE_STREAM = 'SINGLE_STREAM';
